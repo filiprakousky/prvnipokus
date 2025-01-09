@@ -1,1 +1,3 @@
 # prvnipokus
+- pokus
+- hokus
